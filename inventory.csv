@@ -1,0 +1,13 @@
+product_id,product_name,category,stock,safety_stock,daily_demand,lead_time,cost_price
+P101,Wireless Mouse,Accessories,18,20,5,4,450
+P102,Bluetooth Headphones,Electronics,65,20,4,5,1200
+P103,USB-C Charger,Accessories,8,15,6,3,350
+P104,Mechanical Keyboard,Electronics,12,18,3,6,1800
+P105,Laptop Stand,Accessories,42,15,2,4,700
+P106,Power Bank,Electronics,6,12,4,5,900
+P107,USB Cable,Accessories,120,25,8,3,120
+P108,Webcam,Electronics,25,15,2,5,1500
+P109,SSD 1TB,Storage,9,12,2,7,4200
+P110,Monitor,Electronics,30,10,2,6,6500
+P111,Phone Case,Accessories,80,20,5,3,180
+P112,Router,Networking,14,15,3,5,1100S
