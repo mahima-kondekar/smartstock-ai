@@ -51,3 +51,10 @@ Beginner-level portfolio project demonstrating Python-based data analysis, SQL d
 Author
 
 Developed as a portfolio project to practise data analysis and inventory management concepts.
+## Dashboard Preview
+
+### Business Overview
+![SmartStock Dashboard](smartstock-dashboard.png)
+
+### Reorder Assistant
+![Reorder Assistant](smartstock-reorder.png)
